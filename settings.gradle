@@ -1,0 +1,29 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "NetflixApp"
+include ':app'
+include ':core'
+include ':onboarding'
+include ':onboarding:onboarding_presentation'
+include ':series'
+include ':movies'
+include ':core-ui'
+include ':onboarding:onboarding_domain'
+include ':series:series_presentation'
+include ':series:series_domain'
+include ':series:series_data'
+include ':movies:movies_presentation'
+include ':movies:movies_data'
+include ':movies:movies_domain'
