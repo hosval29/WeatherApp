@@ -1,4 +1,4 @@
-package com.instaleap.core
+package com.hosvalandroiddev.core
 
 import org.junit.Test
 

@@ -1,0 +1,8 @@
+package com.hosvalandroiddev.weather_data.remote.dto
+
+import com.squareup.moshi.Json
+
+data class WindDto(
+    @field:Json(name = "deg") val deg: Int,
+    @field:Json(name = "speed") val speed: Double
+)

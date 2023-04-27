@@ -1,5 +1,5 @@
 object ProjectConfig {
-    const val appId = "com.instaleap.netflixapp"
+    const val appId = "com.hosvalandroiddev.weatherapp"
     const val compileSdk = 33
     const val minSdk = 21
     const val targetSdk = 33

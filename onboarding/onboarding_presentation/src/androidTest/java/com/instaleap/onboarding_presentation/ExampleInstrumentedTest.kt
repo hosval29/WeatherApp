@@ -1,4 +1,4 @@
-package com.instaleap.onboarding_presentation
+package com.hosvalandroiddev.onboarding_presentation
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.instaleap.onboarding_presentation.test", appContext.packageName)
+        assertEquals("com.hosvalandroiddev.onboarding_presentation.test", appContext.packageName)
     }
 }

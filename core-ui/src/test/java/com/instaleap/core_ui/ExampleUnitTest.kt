@@ -1,4 +1,4 @@
-package com.instaleap.core_ui
+package com.hosvalandroiddev.core_ui
 
 import org.junit.Test
 

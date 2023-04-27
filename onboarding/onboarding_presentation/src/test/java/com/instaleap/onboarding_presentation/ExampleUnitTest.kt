@@ -1,4 +1,4 @@
-package com.instaleap.onboarding_presentation
+package com.hosvalandroiddev.onboarding_presentation
 
 import org.junit.Test
 

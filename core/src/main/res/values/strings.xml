@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">appid</string>
+    <string name="search">Search...</string>
+    <string name="description_location">Description Location</string>
+    <string name="look_climate_locality">Busca el clima de una localidad</string>
+    <string name="description_on_back">On Back</string>
+    <string name="error_something_went_wrong">¡Uy, algo salió mal!. Valida tu conexión</string>
+    <string name="result_search_error">No se encontraron ciudades que coincidan con ese nombre!</string>
+    <string name="loading">Cargando...\nEspera un momento por favor</string>
+    <string name="result_search_success">Resultado de ciudiades</string>
+    <string name="result_search_first_time">Escribe cualquier nombre de alguna ciudad.</string>
+    <string name="acualized">Actualizado el: </string>
+    <string name="sunrice">Amanecer</string>
+    <string name="suntset">Atardecer</string>
+    <string name="hour">Hora</string>
+    <string name="wind">Viento</string>
+    <string name="presure">Presión</string>
+    <string name="humidity">Humedad</string>
+</resources>
